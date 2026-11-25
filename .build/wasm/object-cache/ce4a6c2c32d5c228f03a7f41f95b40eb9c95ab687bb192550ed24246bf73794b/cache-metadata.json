@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "fingerprint": "ce4a6c2c32d5c228f03a7f41f95b40eb9c95ab687bb192550ed24246bf73794b",
+  "artifacts": {
+    "sketch.o": {
+      "bytes": 49822,
+      "sha256": "aceefb2b16bd064af32d7d6845aafdd710419e75f2f69866688895328db4dc85"
+    }
+  }
+}

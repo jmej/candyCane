@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "config": {
+    "sketch_dir": "/home/jmej/Projects/candyCane/arduino/candyCane",
+    "fastled_dir": "/home/jmej/.fastled/cache/fl/repo",
+    "emsdk_path": "/home/jmej/.fastled/toolchains/emscripten/linux/x86_64/4.0.21-5cd3cbe0316d",
+    "prefixes": {
+      "fastled_prefix": "fastledsource",
+      "sketch_prefix": "sketchsource",
+      "dwarf_prefix": "dwarfsource"
+    }
+  }
+}
